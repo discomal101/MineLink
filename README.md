@@ -55,9 +55,3 @@ Please fork the repo and submit a pull request.
 
 ## 📜 License
 MIT License.
-
----
-
-**Extra:**  
-If you want, I can make a **starter `index.js` template** for you too (basic connection code + skeleton)? 🚀  
-Would you like that? It’ll save you a few minutes. 👀
