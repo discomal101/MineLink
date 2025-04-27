@@ -10,7 +10,7 @@
 - Automated mining and farming
 - Event listeners (auto-respawn, item pickup, etc.)
 - Scriptable custom behaviors
-- Web dashboard (future update)
+- Auto Auth
 
 ---
 
